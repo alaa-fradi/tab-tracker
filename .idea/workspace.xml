@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f7a6369-9131-43ab-bdea-d4a08d9aa9b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/components/Register.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/services/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/services/authentificationService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/src/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,6 +45,7 @@
         <counts>
           <entry key="js" value="683" />
           <entry key="json" value="17" />
+          <entry key="txt" value="33" />
           <entry key="vue" value="680" />
         </counts>
       </usages-collector>
@@ -60,6 +53,7 @@
         <counts>
           <entry key="JSON" value="17" />
           <entry key="JavaScript" value="683" />
+          <entry key="PLAIN_TEXT" value="33" />
           <entry key="Vue.js" value="680" />
         </counts>
       </usages-collector>
@@ -70,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="338">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -266,12 +260,20 @@
       <workItem from="1599484671544" duration="1198000" />
       <workItem from="1599518655751" duration="3992000" />
       <workItem from="1599607363965" duration="5203000" />
-      <workItem from="1599751223168" duration="10203000" />
+      <workItem from="1599751223168" duration="10471000" />
     </task>
+    <task id="LOCAL-00001" summary="setting up the registration page">
+      <created>1599762931589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599762931589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23744000" />
+    <option name="totallyTimeSpent" value="24012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -301,6 +303,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="setting up the registration page" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting up the registration page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/server/package.json">
@@ -381,8 +387,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/src/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="338">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
